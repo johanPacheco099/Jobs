@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "description": "fulltime"
+  },
+  {
+    "id": 2,
+    "description": "halftime"
+  },
+  {
+    "id": 3,
+    "description": "achievement"
+  }
+]

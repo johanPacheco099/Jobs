@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "logo": "amazon-icon.png",
+    "company": "Amazoncito",
+    "job": "Senior Software Engineer",
+    "location": "22166",
+    "published": "2023-04-09",
+    "category": 1
+  },
+  {
+    "id": 2,
+    "logo": "not-icon.png",
+    "company": "Manzano",
+    "job": "Kitchen Assistant",
+    "location": "22166",
+    "published": "2023-04-02",
+    "category": 1
+  },
+  {
+    "id": 3,
+    "logo": "google-icon.png",
+    "company": "Gullu",
+    "job": "Front-End Software Engineer",
+    "location": "84479",
+    "published": "2023-04-12",
+    "category": 1
+  },
+  {
+    "id": 4,
+    "logo": "linkedin-icon.png",
+    "company": "Liinden",
+    "job": "Back-End Software Engineer",
+    "location": "32399",
+    "published": "2023-04-01",
+    "category": 1
+  },
+  {
+    "id": 5,
+    "logo": "dropbox-icon.png",
+    "company": "CajoTa",
+    "job": "Full-Stack Software Engineer",
+    "location": "22198",
+    "published": "2023-04-09",
+    "category": 1
+  }
+]

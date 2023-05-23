@@ -1,0 +1,20 @@
+const jobMock: Job = {
+  id: 0,
+  logo: '',
+  company: '',
+  job: '',
+  location: '',
+  published: new Date(),
+  category: {
+    id: 0,
+    description: ''
+  }
+}
+
+const cityMock: City = {
+  id: 0,
+  country: '',
+  name: '',
+  lat: 0,
+  lng: 0
+}
